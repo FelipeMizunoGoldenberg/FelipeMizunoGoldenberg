@@ -1,7 +1,7 @@
 # 👋 Olá! Sou o Felipe Mizuno Goldenberg!
 
 🎓 Estudante de Ciência da Computação  
-🌍 Falante de Português | Estudando Inglês 🇺🇸 e Japonês 🇯🇵  
+🌍 Falante de Português | Estudando Inglês 🇺🇸  
 💻 Apaixonado por tecnologia, programação e sonho em trabalhar com IA! 
 
 ---
